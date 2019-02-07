@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BankChallenge</string>
+    <string name="EmailErrorMessage">Informe um email válido!</string>
+    <string name="PasswordErrorMessage">Informe uma senha com pelo menos uma letra maiuscula, um caracter especial e um caracter alfanumérico!</string>
 </resources>
